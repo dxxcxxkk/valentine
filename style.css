@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    background-color: #ffe6e6;
+    color: #ff3366;
+}
+.container {
+    margin-top: 50px;
+}
+h1 {
+    font-size: 2.5em;
+}
+.love-img {
+    width: 250px;
+    border-radius: 15px;
+}
+button {
+    background: #ff6699;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background: #ff3366;
+}
